@@ -1,8 +1,9 @@
 # Last-Man-Standing-Code-Presentation
 Present the Last Man Standing (Josephus) problem and walk through the naive and optimized solution
 
-Be sure to download my presentation and try the solution in "Naive" and "Optimized"!
+Be sure to download/take a look at my presentation and try the solution in "Naive" and "Optimized"!
 
+Presentation link: https://docs.google.com/presentation/d/18h4lHlyDg0b9XuknHQ21LqdhSjDrIGp-syTizkUqqcY/edit?usp=sharing
 
 #Problem Description
 Taken from: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2326
